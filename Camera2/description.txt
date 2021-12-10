@@ -1,0 +1,2 @@
+The Camera2 API testing app, currently i am tested SurfaceTexture and MediaProjection API
+Thanks for download (if you download it)
